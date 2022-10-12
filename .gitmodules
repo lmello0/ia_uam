@@ -1,0 +1,3 @@
+[submodule "fuzzy"]
+	path = fuzzy
+	url = git@github.com:lmello0/fuzzy.git
